@@ -1,0 +1,17 @@
+{
+  "name": "Luxesonics Designs",
+  "short_name": "Luxesonics",
+  "description": "Stage plot, input list, console, gear, call times and scene tools for live sound.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

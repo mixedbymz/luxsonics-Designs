@@ -2,7 +2,7 @@
 
 Live production planner for audio, lighting and video: input lists, patch sheets, stage plots, console choice, gear lists, call times, PA, personal monitors, racks, scene export and scene transfer.
 
-**Open the app:** https://mixedbymz.github.io/luxsonics-designs/
+**Open the app:** https://mixedbymz.github.io/luxsonics-Designs/
 
 ## Install on a phone or tablet
 - **iPhone / iPad:** open the link in Safari, tap **Share**, then **Add to Home Screen**.

@@ -1,6 +1,6 @@
 # Luxesonics Designs
 
-Live production planner for audio, lighting and video: input lists, patch sheets, stage plots, console choice, gear lists, call times, PA, personal monitors, racks, scene export and scene transfer.
+Live production and installation planner for audio, lighting and video: input lists, patch sheets, stage plots, consoles, gear lists, call times, PA, personal monitors, racks, scene export and transfer, crew, day sheets, run of show, backline, staging and rigging, quotes, and building installs (rooms, 100 V zones, amps, DSP, cable schedules, rack elevations).
 
 **Open the app:** https://mixedbymz.github.io/luxsonics-Designs/
 
